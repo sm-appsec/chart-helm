@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  smappsec:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2024-07-09T18:09:06.096248188+02:00"
+    description: A Helm chart for smappsec
+    digest: 95dcb63ef6919c4acfb48d435bf12cee9baa2e978cbe1d610909b4335a0bc392
+    icon: https://example.com/path/to/your/icon.png
+    name: smappsec
+    urls:
+    - https://github.com/sm-appsec/chart-helm/charts/smappsec-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-09T18:09:06.094995186+02:00"
